@@ -20,7 +20,7 @@ body, html {
     width: 100%;
     height: 60px;
     padding: 40px 0;
-    background: #FF0509;
+    background:grey;
     border-top-left-radius: 14px;
     border-top-right-radius: 14px;
 }
@@ -65,7 +65,13 @@ input[type=text] {
     
 }
 .red {
-    background: #FF0509 !important;
+    background:grey !important;
     color: #ffffff !important;
     
+}
+
+
+
+#specific{
+    width: 100%;;
 }
